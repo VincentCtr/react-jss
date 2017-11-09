@@ -4,7 +4,6 @@ node_modules
 *.lock
 *~
 lib
-dist
 coverage
 tests
 tmp
