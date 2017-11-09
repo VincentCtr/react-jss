@@ -3,7 +3,6 @@ node_modules
 *.log
 *.lock
 *~
-lib
 coverage
 tests
 tmp
